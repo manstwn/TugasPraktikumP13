@@ -37,10 +37,7 @@ Dengan menambahakan eksepsi maka:
 - Saat input data kosong maka akan meminta untuk memasukan data kembali
 - Saat input NIM dan Nilai menggunakan karakter maka program akan meminta untuk memasukan angka.
 
-Tampilan dari fungsi menu().\
+Tampilan dari menu input data.\
 ![screenshot output](screenshot/ss1.png)
-
-
-
 
 
