@@ -19,7 +19,7 @@ while True:
         else:
             break
         
-    while True:
+while True:
         try:
             nilai = int(input("Masukan Nilai\t: "))
             if nilai == "":
